@@ -1,0 +1,38 @@
+#header{
+    height: 50;
+    background:darkblue;
+    color: #ffffff;
+}
+
+#branding h1{
+    color: #ffffff;
+}
+
+a:link,
+a:visited{
+    color: darkblue;
+}
+
+div.breadcrumbs {
+    background: #30caa0;
+    color:darkblue;
+}
+
+div.breadcrumbs a{
+    color:darkblue;
+    font-size: 20px;
+}   
+div.breadcrumbs{
+    font-size: 20px;
+}
+.module h2, .module caption, .inline-group h2{
+    background: #30caa0;
+}
+#user-tools a{
+    font-size: 15px;
+}
+
+
+
+
+
